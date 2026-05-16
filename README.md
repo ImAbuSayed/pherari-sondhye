@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pherari-sondhye/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Pherari Sondhye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pherari-sondhye/) |
+| **Get License** | [Get License For Pherari Sondhye](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pherari-sondhye/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এই মায়ায় মন হারালো
+> রাতের ওই তারারাও পথ হারালো
+> নীরব এই শহরে তোমার ছায়া
+> বুকে বাঁধে অদ্ভুত এক মায়া
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
