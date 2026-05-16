@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pherari Sondhye
+
+This log tracks the cryptographic history and versioning for the song **Pherari Sondhye** (pherari-sondhye).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T12:15:34.884208 | `v1` | `fa94549ca4461ad9b23f8dcc2053e36989f8a0077eff523df6e7a652b2b76dec` | `ab9929561016bf8e5f21b9534dd2e439d11bfd5ae2150594e3667684d1ed292a` | `2026-05-16_pherari-sondhye-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
